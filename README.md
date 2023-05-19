@@ -74,8 +74,6 @@ python live_detect.py
 
 # References
 
-## Facial Ages Dataset
-
     https://talhassner.github.io/home/publication/2015_CVPR
     https://talhassner.github.io/home/projects/cnn_agegender/CVPR2015_CNN_AgeGenderEstimation.pdf
     https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender
