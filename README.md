@@ -51,12 +51,6 @@ pip install -r requirements.txt
 
 # Running the project
 
-## set-up
-
-before running main.py, you will need to download the facial-ages dataset into this directory and rename it to assets. You can find the dataset set here: 
-
-  https://www.kaggle.com/datasets/frabbisw/facial-age
-
 ## main.py
 
 Running main.py will take you through all the steps I had to set up the dataframe, test the model and train:
@@ -71,3 +65,12 @@ Running live_detect.py will start up the real time age classfier, using your dev
 ```bash
 python live_detect.py
 ```
+
+# References
+
+## Facial Ages Dataset
+
+    https://talhassner.github.io/home/publication/2015_CVPR
+    https://talhassner.github.io/home/projects/cnn_agegender/CVPR2015_CNN_AgeGenderEstimation.pdf
+    https://talhassner.github.io/home/projects/Adience/Adience-data.html#agegender
+    https://www.kaggle.com/datasets/frabbisw/facial-age
